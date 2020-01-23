@@ -15,3 +15,6 @@ and the number of cases varies from level to level.
 ## How To Play
 In this game you can either move the character using the keyboard arrows or choose the AI option to observe how the automated
 character solves the problem by itself using the Djikstra's algorithm and it's variants.
+
+## Collaborator 
+@tripincloud
