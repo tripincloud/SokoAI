@@ -3,7 +3,7 @@
 ## What Is Sokoban ? 
 The sokoban is a little puzzle video game invented
 in Japan in the early 1980s.
-warehouse keeper (literal translation of name
+Warehouse keeper (literal translation of name
 of the game) - the player - who moves in a warehouse,
 represented by a grid of boxes, the purpose of which is
 put boxes on target boxes. The tray
