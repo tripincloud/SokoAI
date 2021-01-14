@@ -17,5 +17,5 @@ In this game you can either move the character using the keyboard arrows or choo
 character solves the problem by itself using the Djikstra's algorithm and it's variants.
 
 ## Collaborator 
-@tripincloud
+@Achraf99Jday
 
